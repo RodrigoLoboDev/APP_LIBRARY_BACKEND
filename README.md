@@ -34,7 +34,7 @@ src/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/RodrigoLoboDev/REST_API_SERVER-PRODUCTS
+git clone https://github.com/RodrigoLoboDev/APP_LIBRARY_BACKEND
 ```
 2. Instala las dependencias:
 
